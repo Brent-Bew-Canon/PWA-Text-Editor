@@ -25,7 +25,7 @@ Use this app as a basic text editor. Download the app for use without internet c
 
 
 ## Link
-
+https://pwa-text-editor-bb-7320bce31da4.herokuapp.com/
 
 ## Screenshots
 ![Text Editor Screenshot](screenshot.png)
